@@ -8,4 +8,4 @@ exclude = ["wally.exe"]
 
 [dependencies]
 Roact = "cloud-entertainment/roact@1.4.1"
-Rodux = "cloud-entertainment/rodux@4.0.1-rc.0"
+Rodux = "cloud-entertainment/rodux@4.0.2-rc.0"
