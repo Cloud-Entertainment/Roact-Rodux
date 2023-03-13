@@ -1,0 +1,10 @@
+[package]
+name = "cloud-entertainment/roact-rodux"
+version = "0.5.0"
+license = "Apache-2.0"
+registry = "https://github.com/Cloud-Entertainment/wally-index"
+realm = "shared"
+exclude = ["wally.exe"]
+
+[dependencies]
+Rodux = "cloud-entertainment/rodux@4.0.1-rc.0"
