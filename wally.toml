@@ -1,6 +1,6 @@
 [package]
 name = "cloud-entertainment/roact-rodux"
-version = "0.5.4"
+version = "0.5.5"
 license = "Apache-2.0"
 registry = "https://github.com/Cloud-Entertainment/wally-index"
 realm = "shared"
@@ -8,4 +8,4 @@ exclude = ["wally.exe"]
 
 [dependencies]
 Roact = "core-packages/roact-compat@17.0.1-rc.16.1"
-Rodux = "cloud-entertainment/rodux@4.0.2-rc.0"
+Rodux = "cloud-entertainment/rodux@4.0.3"
